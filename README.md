@@ -1,4 +1,3 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 ## Who am I?
 
@@ -9,8 +8,8 @@
     currently_learning = "Javascript"
     fun_fact = "I am a course representative for Brunel "
 	hobbies = [
-				'Music',
-                         'Chilling',
+				'Coding',
+                         'Badminton',
 			 	'Gaming',
 				'Sci-Fi Movies'
 			]
@@ -25,7 +24,7 @@
  
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thoybur-Rohman&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Thoybur-Rohman&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thoybur-Rohman&theme=blueberry_duo"/>
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thoybur-Rohman&layout=compact&theme=github_dark"/>|
 
