@@ -21,10 +21,7 @@
 	
  ```
 ## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Thoybur-Rohman&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thoybur-Rohman&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thoybur-Rohman&layout=compact&theme=github_dark"/>|
+[![Thoybur Rohman GitHub stats](https://github-readme-stats.vercel.app/api?username=Thoybur-Rohman&hide_border=false&theme=blueberry)](https://github.com/JJudge0/github-readme-stats)
 
 ## Connect with Me
 
