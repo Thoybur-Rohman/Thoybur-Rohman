@@ -17,11 +17,9 @@
 	def Ambitions():
 		BecomeSoftwareEngineer()
 		FinishMyProjects()
-    MakeSomethingOfMyLife()
+    		MakeSomethingOfMyLife()
 	
  ```
-
- 
 ## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Thoybur-Rohman&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thoybur-Rohman&theme=blueberry_duo"/>
