@@ -23,6 +23,8 @@
 ## Github Stats
 [![Thoybur Rohman GitHub stats](https://github-readme-stats.vercel.app/api?username=Thoybur-Rohman&hide_border=false&theme=blueberry)](https://github.com/JJudge0/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thoybur-Rohman&layout=compact)](https://github.com/Thoybur-Rohman/github-readme-stats)
+
 ## Connect with Me
 
 <p align="center">
