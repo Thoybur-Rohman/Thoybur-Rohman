@@ -11,7 +11,7 @@
 			 	'Coding',
                          'Badminton',
 			 	'Gaming',
-			 	 'Sci-Fi Movies'
+			 	'Sci-Fi Movies'
 			]
 	
 	def Ambitions():
