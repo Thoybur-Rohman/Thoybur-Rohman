@@ -8,10 +8,10 @@
     currently_learning = "Javascript"
     fun_fact = "I am a course representative for Brunel "
 	hobbies = [
-				'Coding',
+			 'Coding',
                          'Badminton',
-			 	'Gaming',
-				'Sci-Fi Movies'
+			 'Gaming',
+			  'Sci-Fi Movies'
 			]
 	
 	def Ambitions():
