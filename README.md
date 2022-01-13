@@ -9,7 +9,7 @@
     fun_fact = "I am a course representative for Brunel "
 	hobbies = [
 			 	'Coding',
-                         	'Badminton',
+                         'Badminton',
 			 	'Gaming',
 			 	 'Sci-Fi Movies'
 			]
