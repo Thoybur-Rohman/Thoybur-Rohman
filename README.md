@@ -23,6 +23,8 @@
 ## Github Stats
 [![Thoybur Rohman GitHub stats](https://github-readme-stats.vercel.app/api?username=Thoybur-Rohman&hide_border=false&theme=blueberry)](https://github.com/JJudge0/github-readme-stats)
 
+![Usen-ita's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Thoybur-Rohman&theme=xcode)
+
 ## Connect with Me
 
 <p align="center">
