@@ -1,25 +1,4 @@
 
-## Who am I?
-
- ```python
-  class WhoAmI:
-    user = 'Thoybur Rohman'
-	current_edu = "Brunel Univeristy London"
-    currently_learning = "Javascript"
-    fun_fact = "I am a course representative for Brunel "
-	hobbies = [
-			 	'Coding',
-                         'Badminton',
-			 	'Gaming',
-			 	'Sci-Fi Movies'
-			]
-	
-	def Ambitions():
-		BecomeSoftwareDeveloper()
-		FinishMyProjects()
-         MakeSomethingOfMyLife()
-	
- ```
 ## Github Stats
 
 [![Thoybur Rohman GitHub stats](https://github-readme-stats.vercel.app/api?username=Thoybur-Rohman&hide_border=false&theme=blueberry)](https://github.com/Thoybur-Rohman/github-readme-stats)
