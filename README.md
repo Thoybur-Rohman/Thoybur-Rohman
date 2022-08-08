@@ -1,9 +1,7 @@
 
 ## Github Stats
+![GitHub metrics](https://metrics.lecoq.io/Thoybur-Rohman)  
 
-[![Thoybur Rohman GitHub stats](https://github-readme-stats.vercel.app/api?username=Thoybur-Rohman&hide_border=false&theme=blueberry)](https://github.com/Thoybur-Rohman/github-readme-stats)
-
-![Thoybur](https://activity-graph.herokuapp.com/graph?username=Thoybur-Rohman&theme=xcode)
 
 ## Connect with Me
 
