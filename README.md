@@ -1,5 +1,5 @@
 
-## Github Stats
+## Thoubur Samir Rohman ( Student / Full Stack Software Engineer )
 ![GitHub metrics](https://metrics.lecoq.io/Thoybur-Rohman)  
 
 
