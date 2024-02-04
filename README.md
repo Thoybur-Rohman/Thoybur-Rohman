@@ -1,10 +1,6 @@
 # Thoubur Samir Rohman
 
-Welcome to my GitHub! I'm Thoubur Samir Rohman, a Software Engineer specializing in the development of innovative AI software solutions. My passion lies in leveraging artificial intelligence to solve complex challenges, create impactful technologies, and drive forward the boundaries of what's possible in software engineering.
-
-## 🚀 About My Work
-
-With a strong foundation in both theoretical and applied aspects of software engineering and artificial intelligence, I am dedicated to developing solutions that are not only cutting-edge but also scalable and efficient. My work encompasses a range of projects from developing sophisticated AI models to architecting robust microservices for scalable applications.
+Welcome to my GitHub! I'm Thoubur Samir Rohman, a Software Engineer specializing in the development of innovative AI software solutions. 
 
 ## 📄 Highlighted Publications
 
