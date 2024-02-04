@@ -1,10 +1,24 @@
 # Thoubur Samir Rohman
 
-I'm a Software Engineer specializing in AI software development. My work focuses on innovative solutions and advancements in artificial intelligence, aiming to tackle complex challenges through technology.
+Welcome to my GitHub! I'm Thoubur Samir Rohman, a Software Engineer specializing in the development of innovative AI software solutions. My passion lies in leveraging artificial intelligence to solve complex challenges, create impactful technologies, and drive forward the boundaries of what's possible in software engineering.
 
-## 📚 Key Publication
-- [MiSAR: The MicroService Architecture Recovery Toolset](https://www.researchgate.net/publication/372907824_MiSARThe_MicroService_Architecture_Recovery_Toolset).
+## 🚀 About My Work
 
-## 🌐 Connect
-Let's collaborate! Reach out to me on [LinkedIn](https://www.linkedin.com/in/thoybur-samir-rohman/) or follow my updates on [Twitter](https://twitter.com/T44YYB).
+With a strong foundation in both theoretical and applied aspects of software engineering and artificial intelligence, I am dedicated to developing solutions that are not only cutting-edge but also scalable and efficient. My work encompasses a range of projects from developing sophisticated AI models to architecting robust microservices for scalable applications.
+
+## 📄 Highlighted Publications
+
+I actively contribute to the academic and professional community through research and publications. A notable publication includes:
+- [MiSAR: The MicroService Architecture Recovery Toolset](https://www.researchgate.net/publication/372907824_MiSARThe_MicroService_Architecture_Recovery_Toolset), a toolset designed to enhance the recovery and understanding of microservices architectures in modern software systems.
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thoybur-samir-rohman/">
+    <img alt="LinkedIn" title="Thoybur Rohman LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/T44YYB">
+    <img alt="Twitter" title="Thoybur Rohman Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+</p>
 
