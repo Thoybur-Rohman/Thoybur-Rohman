@@ -1,6 +1,14 @@
 # Thoubur Samir Rohman
 
-Welcome to my GitHub! I'm Thoubur Samir Rohman, a Software Engineer specializing in the development of innovative AI software solutions. 
+Welcome to my GitHub! I'm Thoubur Samir Rohman, a Software Engineer specializing in the development of innovative AI software solutions.
+
+## 🏆 Awards & Recognitions
+
+- **BCS, The Chartered Institute IT Prize 2024** — Honored with the British Computer Society Prize.
+- **Brunel Open Research Awards 2024** — Recognized for contributions in Open Science (Research Proposal, Data Analysis, Publication).
+- **Made in Brunel Software Innovation 2022 & 2024** — Awarded Innovation Hub Prize & Final Year Project distinction.
+- **The Venture Competition 2024** — Winner of Santander Universities & Brunel Development Fund (Top 5).
+- **REME Craftsman Cup 2018** — Achieved Gold for a nine-month project with the Royal Electrical and Mechanical Engineers (REME).
 
 ## 📄 Highlighted Publications
 
@@ -17,4 +25,3 @@ I actively contribute to the academic and professional community through researc
     <img alt="Twitter" title="Thoybur Rohman Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
-
